@@ -1,4 +1,4 @@
-<img src="https://qhhoj.com/static/icons/logo.svg" width=800>
+<img src="https://github.com/qhhoj/online-judge/blob/master/logo.png?raw=true" width=800>
 
 # Welcome to QHHOJ - Mission Impossible
 
